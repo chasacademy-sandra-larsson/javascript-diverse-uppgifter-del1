@@ -1,2 +1,1 @@
-# lektion_15_10_2024
-# javascript-uppgifter_2025_10_15
+# Javascript diverse uppgifter del 1
